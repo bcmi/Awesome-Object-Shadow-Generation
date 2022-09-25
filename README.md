@@ -16,6 +16,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 #### Supervised deep learning methods
 + Yan Hong, Li Niu, Jianfu Zhang: "*Shadow Generation for Composite Image in Real-world Scenes.*" AAAI (2022) [[arXiv]](https://arxiv.org/pdf/2104.10338v1.pdf) [[dataset]](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBA)
++ Yichen Sheng, Yifan Liu, Jianming Zhang, Wei Yin, Oztireli Cengiz, He Zhang, Lin Zhe, Shechtman Eli, Bedrich Benes: "*Controllable Shadow Generation Using Pixel Height Maps*" ECCV (2022) [[arXiv]](https://arxiv.org/pdf/2207.05385.pdf) [[Project]](https://shengcn.github.io/SSG/)
++ Yichen Sheng, Jianming Zhang, Bedrich Benes: "*SSN: Soft shadow network for image compositing*" CVPR (2021) oral [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sheng_SSN_Soft_Shadow_Network_for_Image_Compositing_CVPR_2021_paper.pdf)  [[code]](https://github.com/ShengCN/SSN_SoftShadowNet) [[Project]](https://shengcn.github.io/SSN/)
 + Daquan Liu, Chengjiang  Long, Hongpan Zhang, Hanning Yu, Xinzhi  Dong, Chunxia Xiao: "*ARshadowGAN: Shadow generative adversarial network for augmented reality in single light scenes.*" CVPR (2020) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ARShadowGAN_Shadow_Generative_Adversarial_Network_for_Augmented_Reality_in_Single_CVPR_2020_paper.pdf) [[code]](https://github.com/ldq9526/ARShadowGAN)
 + Shuyang Zhang, Runze Liang, Miao Wang: "*ShadowGAN: Shadow synthesis for virtual objects with conditional adversarial networks.*" Computational Visual Media (2019) [[pdf]](https://link.springer.com/content/pdf/10.1007/s41095-019-0136-1.pdf)
 
