@@ -46,7 +46,8 @@ Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Ma
 
 + **Shadow-AR**:  It contains 3,000 quintuples,  Each quintuple consists of 5 images 640×480 resolution: a synthetic image without the virtual object shadow and its corresponding image containing the virtual object shadow, a mask of the virtual object, a labeled real-world shadow matting and its corresponding labeled occluder. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ARShadowGAN_Shadow_Generative_Adversarial_Network_for_Augmented_Reality_in_Single_CVPR_2020_paper.pdf) [[link]](https://github.com/ldq9526/ARShadowGAN)
 + **DESOBA**: It contains 840 training images with totally 2,999 object-shadow pairs and 160 test images with totally 624 object-shadow pairs. [[pdf]](https://arxiv.org/pdf/2104.10338v1.pdf) [[link]](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBA)
- 
+ + **RdSOBA**: It is a large-scale Rendered Shadow Generation dataset with 30 3D scenes, 788 3D foreground objects, and 280,000 object-shadow pairs. [[pdf]](https://arxiv.org/pdf/2306.17358.pdf) [[link]](https://github.com/bcmi/Rendered-Shadow-Generation-Dataset-RdSOBA)
+
 ## Other Resources
 
 + [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition)
