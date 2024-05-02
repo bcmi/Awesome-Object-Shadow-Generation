@@ -1,6 +1,12 @@
 # Awesome Object Shadow Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to object shadow generation, which aims to generate plausible shadow for the inserted foreground object in a composite image.
+A curated list of resources including papers, datasets, and relevant links pertaining to object shadow generation. **Shadow generation aims to generate plausible shadow for the inserted foreground object in a composite image.** For more complete resources on general 
+image composition, please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
+
+<p align='center'>  
+  <img src='./figures/task.jpg'  width=80% />
+</p>
+
 
 ## Contributing
 
@@ -8,6 +14,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Table of Contents
 + [Survey](#Survey)
++ [Online Demo](#Online-demo)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
@@ -16,8 +23,12 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 A brief review on object shadow generation is included in the following survey on image composition:
 
-Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf)
+Li Niu, Wenyan Cong, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, Liqing Zhang: "*Making Images Real Again: A Comprehensive Survey on Deep Image Composition.*" arXiv preprint arXiv:2106.14490 (2021). [[arXiv]](https://arxiv.org/pdf/2106.14490.pdf) [[slides]](https://www.ustcnewly.com/download/Image_composition_tutorial.pdf)
 
+## Online Demo
+
+Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_composition/) for shadow generation and have fun! ![hot](https://bcmi.sjtu.edu.cn/~niuli/images/fire.png)
+ 
 ## Papers
 
 #### Supervised deep learning methods
