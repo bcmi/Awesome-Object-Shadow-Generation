@@ -32,7 +32,8 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 ## Papers
 
 #### Supervised deep learning methods
-+  Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*" arXiv preprint arXiv:2403.18818 (2024) [[arXiv]](https://arxiv.org/pdf/2403.18818.pdf)
++ Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*"  ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09857.pdf)
++ Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, Jianming Zhang, Yizhi Song, Dan Ruta, Andrew Gilbert, John Collomosse, Soo Ye Kim："*Thinking Outside the BBox: Unconstrained Generative Object Compositing.*" ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07965.pdf)
 + Qingyang Liu, Junqi You, Jianting Wang, Xinhao Tao, Bo Zhang, Li Niu: "*Shadow Generation for Composite Image Using Diffusion Model.*" CVPR (2024) [[arXiv]](https://arxiv.org/pdf/2403.15234.pdf) [[dataset&code]](https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2) 
 + Xinhao Tao, Junyan Cao, Yan Hong, Li Niu: "*Shadow Generation with Decomposed Mask Prediction and Attentive Shadow Filling.*" AAAI (2024) [[arXiv]](https://arxiv.org/pdf/2306.17358.pdf) [[dataset]](https://github.com/bcmi/Rendered-Shadow-Generation-Dataset-RdSOBA)
 + Lucas Valença, Jinsong Zhang, Michaël Gharbi, Yannick Hold-Geoffroy, Jean-François Lalonde: "*Shadow Harmonization for Realistic Compositing.*" SIGGRAPH Asia (2023) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3610548.3618227)
