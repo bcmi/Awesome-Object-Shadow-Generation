@@ -32,6 +32,7 @@ Try this [online demo](https://bcmi.sjtu.edu.cn/home/niuli/demo_image_compositio
 ## Papers
 
 #### Supervised deep learning methods
++ Haonan Zhao, Qingyang Liu, Xinhao Tao, Li Niu, Guangtao Zhai: "*Shadow Generation Using Diffusion Model with Geometry Prior.*" CVPR (2025) [[code]](https://github.com/bcmi/GPSDiffusion-Object-Shadow-Generation)
 + Ziqi Yu, Jing Zhou, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
 + Jing Zhou, Ziqi Yu, Zhongyun Bao, Gang Fu, Weilei He, Chao Liang, Chunxia Xiao: "*Foreground Harmonization and Shadow Generation for Composite Image.*" ACM MM (2024) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)
 + Daniel Winter, Matan Cohen, Shlomi Fruchter, Yael Pritch, Alex Rav-Acha, Yedid Hoshen: "*ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion.*"  ECCV (2024) [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09857.pdf)
