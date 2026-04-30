@@ -34,6 +34,7 @@ Try this [online demo](http://libcom.ustcnewly.com/) for image composition (obje
 ## Papers
 
 #### Supervised deep learning methods
++ Yanping Fu, Jiazheng Tao, Chenpei Li, Shaojie Zhang, Dengdi Sun, Haifeng Zhao: "*3D-Aware Shadow Generation for Composite Image.*" ICASSP (2026) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11461277) 
 + Waqas Ahmed, Dean Diepeveen, Ferdous Sohel: "*CoShadow: Multi-Object Shadow Generation for Image Compositing via Diffusion Model.*" arXiv preprint arXiv:2603.02743 (2026) [[arXiv]](https://arxiv.org/pdf/2603.02743)
 + Tianyu Wang, Jianming Zhang, Haitian Zheng, Zhihong Ding, Scott Cohen, Zhe Lin, Wei Xiong, Chi-Wing Fu, Luis Figueroa, Soo Ye Kim: "*MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MetaShadow_Object-Centered_Shadow_Detection_Removal_and_Synthesis_CVPR_2025_paper.pdf) 
 + Haonan Zhao, Qingyang Liu, Xinhao Tao, Li Niu, Guangtao Zhai: "*Shadow Generation Using Diffusion Model with Geometry Prior.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Shadow_Generation_Using_Diffusion_Model_with_Geometry_Prior_CVPR_2025_paper.pdf) [[code]](https://github.com/bcmi/GPSDiffusion-Object-Shadow-Generation)
