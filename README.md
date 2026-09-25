@@ -39,6 +39,7 @@ Try this [online demo](http://libcom.ustcnewly.com/) for image composition (obje
 ## Papers
 
 #### Supervised deep learning methods
++ Jing Li, Jing Zhang: "*VSDiffusion: Taming Ill-Posed Shadow Generation via Visibility-Constrained Diffusion.*" ECCV (2026) [[arXiv]](https://arxiv.org/pdf/2603.08020) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-032-37602-2_6)
 + Shilin Hu, Jingyi Xu, Akshat Dave, Dimitris Samaras, Hieu Le: "*Embedding Physical Reasoning into Diffusion-Based Shadow Generation.*" arXiv preprint arXiv:2512.06174 (2026) [[arXiv]](https://arxiv.org/pdf/2512.06174) [[code]](https://github.com/cvlab-stonybrook/ShadowGeneration)
 + Yanping Fu, Jiazheng Tao, Chenpei Li, Shaojie Zhang, Dengdi Sun, Haifeng Zhao: "*3D-Aware Shadow Generation for Composite Image.*" ICASSP (2026) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11461277) 
 + Waqas Ahmed, Dean Diepeveen, Ferdous Sohel: "*CoShadow: Multi-Object Shadow Generation for Image Compositing via Diffusion Model.*" arXiv preprint arXiv:2603.02743 (2026) [[arXiv]](https://arxiv.org/pdf/2603.02743)
